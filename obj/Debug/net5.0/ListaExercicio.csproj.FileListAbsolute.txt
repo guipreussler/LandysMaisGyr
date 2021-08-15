@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ListaExercicio.exe
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ListaExercicio.deps.json
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ListaExercicio.runtimeconfig.json
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ListaExercicio.runtimeconfig.dev.json
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ListaExercicio.dll
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ref\ListaExercicio.dll
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\bin\Debug\net5.0\ListaExercicio.pdb
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.AssemblyInfo.cs
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.dll
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ref\ListaExercicio.dll
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.pdb
+C:\Users\Guilherme\Desktop\Desenvolvimento de Sistemas Visuais (DP)\ListaExercicio\obj\Debug\net5.0\ListaExercicio.genruntimeconfig.cache
